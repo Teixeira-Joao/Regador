@@ -1,0 +1,6 @@
+[submodule "Regador_Diagrams"]
+	path = Regador_Diagrams
+	url = https://github.com/Teixeira-Joao/Regador_Diagrams
+[submodule "Regador_app"]
+	path = Regador_app
+	url = https://github.com/Teixeira-Joao/Regador_app
